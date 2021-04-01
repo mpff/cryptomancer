@@ -1,0 +1,7 @@
+# do track
+!*.gitkeep
+
+# don't track
+*.env
+virtualenv
+data/*
