@@ -10,9 +10,9 @@ $ source virtualenv/bin/activate
 $ pip install -r requirements.txt
 $ pip install --editable .  
 ```
-Download Krakens historical Bitcoin market data. Get an up-to-date URL from the [Kraken Website](https://support.kraken.com/hc/en-us/articles/360047543791-Downloadable-historical-market-data-time-and-sales-).
+Download Krakens historical Bitcoin ticker data. Get an up-to-date URL from the [Kraken Website](https://support.kraken.com/hc/en-us/articles/360047543791-Downloadable-historical-market-data-time-and-sales-).
 ```
-$ download_dataset
+$ download_xbt_ticker
 https://drive.google.com/file/d/1hbpD9_HB7fuGbXu6ZAAcvMkpbxMgOkld/view?usp=sharing
 data/input
 ```
