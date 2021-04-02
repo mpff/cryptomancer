@@ -1,3 +1,1 @@
-dropbox==11.*
-python-dotenv==0.16.*
 click==7.*

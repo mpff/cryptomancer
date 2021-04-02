@@ -1,6 +1,3 @@
-import dotenv
-dotenv.load_dotenv()
-
 import os
 import click
 import logging
