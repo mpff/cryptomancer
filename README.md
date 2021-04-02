@@ -14,6 +14,6 @@ Download Krakens historical Bitcoin ticker data. Get an up-to-date URL from the 
 ```
 $ download_xbt_ticker
 https://drive.google.com/file/d/1hbpD9_HB7fuGbXu6ZAAcvMkpbxMgOkld/view?usp=sharing
-data/input
+data/input/ticker
 ```
 
