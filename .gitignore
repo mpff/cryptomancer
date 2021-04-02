@@ -1,7 +1,10 @@
-# do track
-!*.gitkeep
-
 # don't track
 *.env
 virtualenv
-data/*
+data/input/*
+*.egg-info
+*__pycache__
+
+# do track
+!data/input/.gitkeep
+
