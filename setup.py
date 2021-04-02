@@ -11,6 +11,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        download_dataset=cryptomancer.scripts.download_dataset:download_dataset
+        download_xbt_ticker=cryptomancer.scripts.download_xbt_ticker:download_xbt_ticker
     '''
 )

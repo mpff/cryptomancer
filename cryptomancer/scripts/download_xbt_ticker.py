@@ -38,7 +38,7 @@ def save_response_content(response, ofile):
 @click.command()
 @click.argument('source_url')
 @click.argument('output_dir', type=click.Path(exists=True))
-def download_dataset(source_url, output_dir):
+def download_xbt_ticker(source_url, output_dir):
     """ Downloads and unzips historical Bitcoin market data from Kraken's
         official Google Drive folder.
 
